@@ -7,7 +7,7 @@
     align-items: center;
     justify-content: center;
     text-align: center;
-    margin: o auto;
+    margin-left: 15.5%;
 }
 
 .skillTitle{
@@ -52,6 +52,9 @@
 }
 
 @media screen and (max-width:720px) {
+    #skills{
+        margin-left: 0;
+    }
     .skillBarText>p {
         font-size: 2vw;
     }
