@@ -18,7 +18,7 @@ const Works = () => {
                 <img src={Portfolio3} alt="" className="worksImg" />
                 <div className='UEatss'> 
                     <h2>UEatss</h2>
-                    <p>Plataform to mediate time for distributing food at closed quarters like universities o big ofices.</p>
+                    <p>Plataform to mediate time for distributing food at closed quarters like universities and/or big offices.</p>
                     <p>Git Repository: https://github.com/MateusLanzoni/Ueats.git</p>
                 </div>
             </div>

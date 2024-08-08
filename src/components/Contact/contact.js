@@ -31,8 +31,8 @@ const Contact = () => {
             <div id="clients">
                 <h1 className="contactPageTitle">My clients</h1>
                 <span className="clientDesc">
-                    I have had the opportunity to work with a diverse group of companies. 
-                    Some of the notable companies I have worked with includes
+                I have had the opportunity to work with a diverse group of companies. 
+                Some of the notable companies I have worked with include:
                 </span>
                 <div className="clientImgs">
                     <img src={Walmart} alt="Client" className="clientImg" />
